@@ -5,9 +5,8 @@ Google Colab notebook: [illness-sample.ipynb](https://colab.research.google.com/
 
 Dataset: [patient_respiratory_dataset.csv](https://github.com/mfelice/css26/blob/main/patient_respiratory_dataset.csv)
 
-Pandas basics
-https://pandas.pydata.org/docs/getting_started/index.html#intro-to-pandas
+Pandas basics:  
+https://pandas.pydata.org/docs/getting_started/index.html#intro-to-pandas  
 https://realpython.com/pandas-dataframe/
 
-Scikit Learn
-https://scikit-learn.org/stable/getting_started.html
+Scikit Learn: https://scikit-learn.org/stable/getting_started.html
