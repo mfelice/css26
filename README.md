@@ -29,6 +29,6 @@ Jurafsky, D., & Martin, J. H. (2026). [Speech and language processing (3rd ed.)]
 
 Russell, S. J., & Norvig, P. (2021). [Artificial Intelligence: A Modern Approach (4th ed.)](http://lib.ysu.am/disciplines_bk/efdd4d1d4c2087fe1cbe03d9ced67f34.pdf). Pearson.
 
-Bird, S., Klein, E., & Loper, E. (2009). [Natural language processing with Python: Analyzing text with the Natural Language Toolkit](https://tjzhifei.github.io/resources/NLTK.pdf). O'Reilly Media.
+Bird, S., Klein, E., & Loper, E. (2009). [Natural language processing with Python](https://tjzhifei.github.io/resources/NLTK.pdf). O'Reilly Media.
 
 Manning, C. D., & Schütze, H. (1999). [Foundations of statistical natural language processing](https://icog-labs.com/wp-content/uploads/2014/07/Christopher_D._Manning_Hinrich_Sch%C3%BCtze_Foundations_Of_Statistical_Natural_Language_Processing.pdf). MIT Press.
