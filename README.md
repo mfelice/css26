@@ -25,9 +25,9 @@ Slides: [Session 3](https://github.com/mfelice/css26/blob/main/AI-Cambridge-Summ
 
 ## Resources
 
-Russell, S. J., & Norvig, P. (2021). [Artificial Intelligence: A Modern Approach (4th ed.)](http://lib.ysu.am/disciplines_bk/efdd4d1d4c2087fe1cbe03d9ced67f34.pdf). Pearson.
-
 Jurafsky, D., & Martin, J. H. (2026). [Speech and language processing (3rd ed.)](https://web.stanford.edu/~jurafsky/slp3/). 
+
+Russell, S. J., & Norvig, P. (2021). [Artificial Intelligence: A Modern Approach (4th ed.)](http://lib.ysu.am/disciplines_bk/efdd4d1d4c2087fe1cbe03d9ced67f34.pdf). Pearson.
 
 Bird, S., Klein, E., & Loper, E. (2009). [Natural language processing with Python: Analyzing text with the Natural Language Toolkit](https://tjzhifei.github.io/resources/NLTK.pdf). O'Reilly Media.
 
