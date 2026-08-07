@@ -18,7 +18,7 @@ Google Colab notebook: [nlp.ipynb](https://colab.research.google.com/drive/1zZRc
 
 Slides: [Session 2](https://github.com/mfelice/css26/blob/main/AI-Cambridge-SummerSchool-2026-Session-2.pdf)
 
-Group assignments: [Project-instructions.pdf]()
+Group assignments: [Project-instructions.pdf](https://github.com/mfelice/css26/blob/main/Project-instructions.pdf)
 
 ## Session 3
 Slides: [Session 3](https://github.com/mfelice/css26/blob/main/AI-Cambridge-SummerSchool-2026-Session-3.pdf)
