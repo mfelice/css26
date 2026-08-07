@@ -14,7 +14,7 @@ https://realpython.com/pandas-dataframe/
 Scikit Learn: https://scikit-learn.org/stable/getting_started.html
 
 ## Session 2
-Google Colab notebook: [nlp.ipynb]()
+Google Colab notebook: [nlp.ipynb](https://colab.research.google.com/drive/1zZRctn9ZtjZ7YRiFfxAo2lcGlVdAK5eW?usp=sharing)
 
 Slides: [Session 2](https://github.com/mfelice/css26/blob/main/AI-Cambridge-SummerSchool-2026-Session-2.pdf)
 
